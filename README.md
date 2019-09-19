@@ -1,0 +1,2 @@
+# StaticTester
+For Testing purpose
