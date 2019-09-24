@@ -12,6 +12,7 @@ namespace StaticTester
         {
             string msg = Console.ReadLine();
             Console.WriteLine(msg);
+            Console.WriteLine(hai);
         }
     }
 }
